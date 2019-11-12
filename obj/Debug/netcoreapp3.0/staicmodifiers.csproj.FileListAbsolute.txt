@@ -1,0 +1,11 @@
+C:\csharp\ar\staicmodifiers\bin\Debug\netcoreapp3.0\staicmodifiers.exe
+C:\csharp\ar\staicmodifiers\bin\Debug\netcoreapp3.0\staicmodifiers.deps.json
+C:\csharp\ar\staicmodifiers\bin\Debug\netcoreapp3.0\staicmodifiers.runtimeconfig.json
+C:\csharp\ar\staicmodifiers\bin\Debug\netcoreapp3.0\staicmodifiers.runtimeconfig.dev.json
+C:\csharp\ar\staicmodifiers\bin\Debug\netcoreapp3.0\staicmodifiers.dll
+C:\csharp\ar\staicmodifiers\bin\Debug\netcoreapp3.0\staicmodifiers.pdb
+C:\csharp\ar\staicmodifiers\obj\Debug\netcoreapp3.0\staicmodifiers.csprojAssemblyReference.cache
+C:\csharp\ar\staicmodifiers\obj\Debug\netcoreapp3.0\staicmodifiers.AssemblyInfoInputs.cache
+C:\csharp\ar\staicmodifiers\obj\Debug\netcoreapp3.0\staicmodifiers.AssemblyInfo.cs
+C:\csharp\ar\staicmodifiers\obj\Debug\netcoreapp3.0\staicmodifiers.dll
+C:\csharp\ar\staicmodifiers\obj\Debug\netcoreapp3.0\staicmodifiers.pdb
